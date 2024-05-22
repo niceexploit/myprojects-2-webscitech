@@ -1,2 +1,2 @@
 # Project2-Website
-Website
+https://hyryz.github.io/Project2-Website/
