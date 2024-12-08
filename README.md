@@ -1,2 +1,2 @@
 # Project2-Website
-https://H3iWithCAS/project2-web/
+https://h3iwithcas.github.io/project2-web/
